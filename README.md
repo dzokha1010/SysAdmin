@@ -20,3 +20,7 @@
   Đẩy những thay đổi từ máy tính lên Github: git push -u origin <name_branch>
 
   Đồng bộ từ Github về máy tính: git pull
+
+  ## Tạo Token thay thể mật khẩu mỗi khi push lên kho
+  Truy cập link để tạo Token: https://github.com/settings/tokens
+  
