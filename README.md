@@ -17,6 +17,6 @@
 
   Đẩy những thay đổi từ máy tính lên Github: git push
 
-                                       Hoặc: git push -u origin <name_branch>
+  Hoặc: git push -u origin <name_branch>
 
   Đồng bộ từ Github về máy tính: git pull
