@@ -15,8 +15,6 @@
 
   Ghi lại trạng thái thay đổi: git commit -m "<ghi chú>"
 
-  Đẩy những thay đổi từ máy tính lên Github: git push
-
-  Hoặc: git push -u origin <name_branch>
+  Đẩy những thay đổi từ máy tính lên Github: git push -u origin <name_branch>
 
   Đồng bộ từ Github về máy tính: git pull
