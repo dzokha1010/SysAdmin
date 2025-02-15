@@ -2,7 +2,7 @@
 ## Tài liệu và hướng dẫn thực hành 
 - Link: [Github](https://github.com/dzokha1010/Documents/tree/main/System_Administration_Maintenance)
 ## Điểm danh:
-Buoi 1: có mặt: 01,10,11,13,15,17,18,19,21,22,24,26,31,38,47,50,56,58,61,67,70,71,72,73,75
+- Buoi 1: có mặt: 01,10,11,13,15,17,18,19,21,22,24,26,31,38,47,50,56,58,61,67,70,71,72,73,75
 ## Nộp bài thực hành lên Github.com trên kho SysAdmin
 - Bước 1. Download và cài đặt Git: https://git-scm.com/downloads
 - Bước 2. Đăng ký tài khoản trên github.com
