@@ -22,8 +22,8 @@
   git commit -m "<ghi chú>"  
   git push -u origin <name_branch>
   ```
-## Tạo Token thay thể mật khẩu mỗi khi push lên kho
-  Truy cập link để tạo Token: https://github.com/settings/tokens
+- Lưu ý: Nên tạo Token thay thế mật khẩu để thuận tiện mỗi khi thực hiện câu lệnh Push
+  - Link để tạo Token: https://github.com/settings/tokens
 ## Lab1 - Installing Windows Server 2022
 - Hướng dẫn thực hành: [Github](https://github.com/dzokha1010/Documents/blob/main/System_Administration_Maintenance/Lab1_Install_Windows_Server.md)
 - Lab1 thực hành 02 buổi 10 tiết
