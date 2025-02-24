@@ -1,14 +1,9 @@
 # SysAdmin Laboratory
-## Lab1. Installing Windows Server 2022
-- Link: [Github](https://github.com/dzokha1010/Documents/tree/main/System_Administration_Maintenance)
-## Điểm danh:
-- Buoi 1:
-
-Có mặt: 01,2,3,4,6,8,9,10,11,12,13,15,16,17,18,19,21,22,23,24,25,26,27,29,30,31,32,33,34,37,38,40,41,42,43,47,48,49,50,51,52,53,54,55,56,57,58,60,61,63,65,67,68,70,71,72,73,74,75,77,79
-
-Vắng mặt: 5,7,14,20,28,35,36,39,44,45,46,59,62,64,66,69,76,78
-- 
-- Buoi 2: 
+## Lab1 - Installing Windows Server 2022
+- Hướng dẫn thực hành: [Github](https://github.com/dzokha1010/Documents/blob/main/System_Administration_Maintenance/Lab1_Install_Windows_Server.md)
+- Lab1 thực hành 02 buổi 10 tiết
+- Vắng buổi 1: 5, 7, 14, 20, 28, 35, 44, 45, 46, 66, 76, 78
+- Có mặt buổi 2: 01,10, 11, 13, 15, 16,17, 18, 19, 21, 22, 24, 26, 31, , 36, 37, 38, 39, , 47, 49, 50, , 56, 58, 59, 62, 64, 66, 67, 69, 70, 73,74,75
 ## Nộp bài thực hành lên Github.com trên kho SysAdmin
 - Bước 1. Download và cài đặt Git: https://git-scm.com/downloads
 - Bước 2. Đăng ký tài khoản trên github.com
