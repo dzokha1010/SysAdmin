@@ -19,11 +19,13 @@ Vắng mặt: 5,7,14,20,28,35,36,39,44,45,46,59,62,64,66,69,76,78
   3. Di chuyển vào thư mục SysAdmin: cd SysAdmin
 - Bước 5. Tạo File Word đặt tên là mã số sinh viên lưu trong thư mục SysAdmin, File này để lưu kết qủa sau mỗi buổi thực hành
 - Bước 6. Thực hiện câu lệnh lưu File Word lên kho SysAdmin lưu trên Github.com
-  Lưu file thay đổi: git add .
 
-  Ghi lại trạng thái thay đổi: git commit -m "<ghi chú>"
+  ```git add .  \\Lưu file thay đổi: 
 
-  Đẩy những thay đổi từ máy tính lên Github: git push -u origin <name_branch>
+  git commit -m "<ghi chú>"  \\Ghi lại trạng thái thay đổi: 
+
+  git push -u origin <name_branch> \\Đẩy những thay đổi từ máy tính lên Github:
+  ```
 
   Đồng bộ từ Github về máy tính: git pull
 
