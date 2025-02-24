@@ -20,7 +20,8 @@ Vắng mặt: 5,7,14,20,28,35,36,39,44,45,46,59,62,64,66,69,76,78
 - Bước 5. Tạo File Word đặt tên là mã số sinh viên lưu trong thư mục SysAdmin, File này để lưu kết qủa sau mỗi buổi thực hành
 - Bước 6. Thực hiện câu lệnh lưu File Word lên kho SysAdmin lưu trên Github.com
 
-  ```git add .  \\Lưu file thay đổi: 
+  ```
+  git add .  \\Lưu file thay đổi: 
 
   git commit -m "<ghi chú>"  \\Ghi lại trạng thái thay đổi: 
 
