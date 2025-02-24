@@ -1,4 +1,9 @@
 # SysAdmin Laboratory
+## Install Git
+- Step 1: Tải và cài đặt Git: https://git-scm.com/downloads
+- Step 2: Đăng ký tài khoản trên github.com
+- Step 3: Gửi địa chỉ mail đăng ký github.com cho giảng viên để được mời làm cộng tác viên trên kho SysAdmin
+- Step 4: Truy cập kho SysAdmin để theo dõi nộp bài thực hành: https://github.com/dzokha1010/SysAdmin
 ## Lab1 - Installing Windows Server 2022
 - Hướng dẫn thực hành: [Github](https://github.com/dzokha1010/Documents/blob/main/System_Administration_Maintenance/Lab1_Install_Windows_Server.md)
 - Lab1 thực hành 02 buổi 10 tiết
