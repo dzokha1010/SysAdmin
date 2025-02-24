@@ -1,5 +1,5 @@
 # SysAdmin Laboratory
-## Tài liệu và hướng dẫn thực hành 
+## Lab1. Installing Windows Server 2022
 - Link: [Github](https://github.com/dzokha1010/Documents/tree/main/System_Administration_Maintenance)
 ## Điểm danh:
 - Buoi 1:
