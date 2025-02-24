@@ -21,11 +21,11 @@ Vắng mặt: 5,7,14,20,28,35,36,39,44,45,46,59,62,64,66,69,76,78
 - Bước 6. Thực hiện câu lệnh lưu File Word lên kho SysAdmin lưu trên Github.com
 
   ```
-  git add .  \\Lưu file thay đổi: 
+  git add .  
 
-  git commit -m "<ghi chú>"  \\Ghi lại trạng thái thay đổi: 
+  git commit -m "<ghi chú>"  
 
-  git push -u origin <name_branch> \\Đẩy những thay đổi từ máy tính lên Github:
+  git push -u origin <name_branch>
   ```
 
   Đồng bộ từ Github về máy tính: git pull
