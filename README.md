@@ -32,7 +32,7 @@
 ## Lab2 - Optimizing Windows Server 2022
 - Hướng dẫn thực hành:
 - Lab2 thực hành 01 buổi 5 tiết
-- Văng buổi 3 (MSSV): 05, 09, 20, 42, 44, 45, 68, 71, 76, 78
+- Vắng buổi 3 (MSSV): 05, 09, 20, 42, 44, 45, 68, 71, 76, 78
 ## Lab3 - Implementing services for Windows Server 2022
 - Hướng dẫn thực hành:
 - Lab3 thực hành 03 buổi 15 tiết
