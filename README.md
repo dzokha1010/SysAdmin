@@ -36,6 +36,6 @@
 ## Lab3 - Implementing services for Windows Server 2022
 - Hướng dẫn thực hành:
 - Lab3 thực hành 03 buổi 15 tiết
-- Có mặt buổi 4: 15, 17, 18, 21, 73
+- Có mặt buổi 4: 01, 15, 17, 18, 21, 47, 73
 
   
