@@ -27,16 +27,11 @@
 ## Lab1 - Installing Windows Server 2022
 - Hướng dẫn thực hành: [Github](https://github.com/dzokha1010/Documents/blob/main/System_Administration_Maintenance/Lab1_Install_Windows_Server.md)
 - Lab1 thực hành 02 buổi 10 tiết
-- Vắng buổi 1 (MSSV): 5, 7, 14, 20, 28, 44, 45,76, 78
-- Văng buổi 2 (MSSV): 5, 14, 20, 28, 33, 42, 44, 45, 71, 76, 78
 ## Lab2 - Optimizing Windows Server 2022
 - Hướng dẫn thực hành:
 - Lab2 thực hành 01 buổi 5 tiết
-- Vắng buổi 3 (MSSV): 05, 09, 20, 42, 44, 45, 68, 71, 76, 78
 ## Lab3 - Implementing services for Windows Server 2022
 - Hướng dẫn thực hành:
 - Lab3 thực hành 03 buổi 15 tiết
-- Vắng mặt buổi 4: 05, 14, 20, 42, 44, 45, 59, 71, 76, 78
-- Vắng mặt buổi 5: 05, 07 (phép), 14, 15, 20, 22, 28, 44, 45, 59, 62, 71, 76, 78
 
   
